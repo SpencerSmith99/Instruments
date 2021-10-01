@@ -1,6 +1,6 @@
-Brass
-French Horn
-The French horn (since the 1930s known simply as the "horn" in professional music circles) is a brass instrument made of tubing wrapped into a coil with a flared bell. The double horn in F/B♭ (technically a variety of German horn) is the horn most often used by players in professional orchestras and bands. A musician who plays a horn is known as a horn player or hornist.
+Woodwind
+Clarinet
+The clarinet is a family of woodwind instruments. It has a single-reed mouthpiece, a straight, cylindrical tube with an almost cylindrical bore, and a flared bell. A person who plays a clarinet is called a clarinetist (sometimes spelled clarinettist).
 Brass
 Trombone
 The trombone is a musical instrument in the brass family. As with all brass instruments, sound is produced when the player's vibrating lips (embouchure) cause the air column inside the instrument to vibrate. Unlike most other brass instruments, which have valves that, when pressed, alter the pitch of the instrument, trombones instead have a telescoping slide mechanism that varies the length of the instrument to change the pitch.
@@ -13,12 +13,12 @@ The bassoon is a woodwind instrument in the double reed family, which has a teno
 Strings
 Bass Guitar
 The bass guitar, electric bass or simply bass, is the lowest-pitched member of the guitar family. It is a plucked string instrument similar in appearance and construction to an electric or an acoustic guitar, but with a longer neck and scale length, and typically four to six strings or courses.
-Woodwind
-Clarinet
-The clarinet is a family of woodwind instruments. It has a single-reed mouthpiece, a straight, cylindrical tube with an almost cylindrical bore, and a flared bell. A person who plays a clarinet is called a clarinetist (sometimes spelled clarinettist).
 Brass
 Trumpet
 The trumpet is a brass instrument commonly used in classical and jazz ensembles. The trumpet group ranges from the piccolo trumpet with the highest register in the brass family, to the bass trumpet, which is pitched one octave below the standard B♭ or C Trumpet.
+Brass
+French Horn
+The French horn (since the 1930s known simply as the "horn" in professional music circles) is a brass instrument made of tubing wrapped into a coil with a flared bell. The double horn in F/B♭ (technically a variety of German horn) is the horn most often used by players in professional orchestras and bands. A musician who plays a horn is known as a horn player or hornist.
 Strings
 Acoustic Guitar
 An acoustic guitar is a musical instrument[1] in the string family.[2] When a string is plucked its vibration is transmitted from the bridge, resonating throughout the top of the guitar. It is also transmitted to the side and back of the instrument, resonating through the air in the body, and producing sound from the sound hole.
