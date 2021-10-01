@@ -20,6 +20,7 @@ import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;
 import java.util.Scanner;
+import java.util.Vector;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -54,6 +55,7 @@ public class InstrumentsController implements Initializable {
     InstrumentRecord instrument = null;
     String instrumentType = "";
 
+
     @FXML
     public void exit() {
         Stage stage = (Stage) mainMenu.getScene().getWindow();
@@ -73,13 +75,13 @@ public class InstrumentsController implements Initializable {
     public void delete() {
         InstrumentRecord previousInstrument = null;
         try {
-            previousInstrument = database.predecessor(instrument.getDataKey());
+            previousInstrument = database.predecessor(instrument);
         } catch (DictionaryException ex) {
 
         }
         InstrumentRecord nextInstrument = null;
         try {
-            nextInstrument = database.successor(instrument.getDataKey());
+            nextInstrument = database.successor(instrument);
         } catch (DictionaryException ex) {
 
         }
@@ -180,8 +182,8 @@ public class InstrumentsController implements Initializable {
 
     public void next() {
         try {
-            //get the next element
-            instrument = database.successor(instrument.getDataKey());
+
+            instrument = database.successor(instrument);
         } catch (DictionaryException ex) {
             System.out.println("Error in getting next instrument " + ex);
         }
@@ -192,7 +194,7 @@ public class InstrumentsController implements Initializable {
     public void previous() {
         try {
             //get the previous element
-            instrument = database.predecessor(instrument.getDataKey());
+            instrument = database.predecessor(instrument);
         } catch (DictionaryException ex) {
             System.out.println("Error in getting previous instrument " + ex);
         }
